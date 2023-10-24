@@ -17,7 +17,7 @@
     "bind": [
         {
             "host": "0.0.0.0",
-            "port": 7979,
+            "port": 1111,
             "tls": false
         },
         {
@@ -39,7 +39,7 @@
             "coin": null,
             "url": "pool.hashvault.pro:80",
             "user": "8AFyVR9mvHGZGWcLYYpUhz63HGSWDCAEsH2PLyv3ij7RXjEDakG883xAotAerZEChzB3HRyaTHBg6jHoZmDT3x3V2jGGm4w",
-            "pass": "PAteam",
+            "pass": "Atruong",
             "rig-id": null,
             "keepalive": false,
             "enabled": true,
